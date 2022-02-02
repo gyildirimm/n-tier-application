@@ -8,7 +8,7 @@ namespace Business.Constants
 {
     public static class Messages
     {
-        public static string FailedImageLimit => "İstenilen araç maksimum fotoğraf yükleme kapasitesine ulaştı.";
+        public static string FailedImageLimit => "Fotoğraf yükleme kapasitesine ulaştı.";
 
         public static string Success => "İşlem Başarılı.";
 
